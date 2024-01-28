@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="faces.png">
+	<SubTexture name="wadd_LockOnWorld4new0000" x="1487" y="333" width="131" height="180" pivotX="67.8" pivotY="114.8"/>
+	<SubTexture name="wadd_WorldsIcons4new0000" x="539" y="1726" width="200" height="200" pivotX="100" pivotY="100"/>
+	<SubTexture name="wadd_WorldsIcons4new0001" x="741" y="1726" width="200" height="200"/>
+	<SubTexture name="wadd_WorldsIcons4new0002" x="893" y="701" width="200" height="200"/>
+	<SubTexture name="wadd_WorldsIcons4new0003" x="962" y="1253" width="200" height="200"/>
+	<SubTexture name="wadd_WorldsIcons4new0004" x="962" y="1455" width="200" height="200"/>
+	<SubTexture name="wadd_WorldsIcons4new0005" x="943" y="1657" width="200" height="200"/>
+	<SubTexture name="wadd_WorldsIcons4new0006" x="1145" y="1657" width="200" height="200"/>
+	<SubTexture name="wadd_WorldsIcons4new0007" x="1479" y="639" width="200" height="200"/>
+	<SubTexture name="wadd_WorldsIcons4new0008" x="1681" y="594" width="200" height="200"/>
+	<SubTexture name="wadd_WorldsIcons4new0009" x="1479" y="841" width="200" height="200"/>
+	<SubTexture name="wadd_WorldsIcons4new0010" x="1681" y="796" width="200" height="200"/>
+	<SubTexture name="wadd_WorldsIcons4new0011" x="1681" y="998" width="200" height="200"/>
+	<SubTexture name="wadd_WorldsIcons4new0012" x="987" y="1043" width="200" height="200"/>
+	<SubTexture name="wadd_WorldsIcons4new0013" x="1189" y="923" width="200" height="200"/>
+	<SubTexture name="wadd_WorldsIcons4new0014" x="1189" y="1125" width="200" height="200"/>
+	<SubTexture name="wadd_WorldsIcons4new0015" x="1164" y="1327" width="200" height="200"/>
+	<SubTexture name="wadd_WorldsIcons4new0016" x="1391" y="1043" width="200" height="200"/>
+	<SubTexture name="wadd_WorldsIcons4new0017" x="2" y="2" width="0" height="0" frameX="-100" frameY="-100" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="wadd_babelCaption4new0000" x="2" y="2" width="949" height="363" pivotX="487.85" pivotY="180.5"/>
+	<SubTexture name="wadd_bgdStart4new0000" x="2" y="367" width="574" height="390" pivotX="287" pivotY="0"/>
+	<SubTexture name="wadd_faces4new0000" x="1177" y="340" width="308" height="297" pivotX="190.35" pivotY="457.75" frameX="-39" frameY="-162" frameWidth="373" frameHeight="482"/>
+	<SubTexture name="wadd_faces4new0001" x="360" y="966" width="285" height="340" frameX="-54" frameY="-119" frameWidth="373" frameHeight="482"/>
+	<SubTexture name="wadd_faces4new0002" x="1177" y="639" width="300" height="282" frameX="-46" frameY="-178" frameWidth="373" frameHeight="482"/>
+	<SubTexture name="wadd_faces4new0003" x="647" y="966" width="338" height="285" frameX="-33" frameY="-178" frameWidth="373" frameHeight="482"/>
+	<SubTexture name="wadd_faces4new0004" x="305" y="1308" width="308" height="242" frameX="-39" frameY="-217" frameWidth="373" frameHeight="482"/>
+	<SubTexture name="wadd_faces4new0005" x="2" y="1221" width="301" height="366" frameX="-39" frameY="-93" frameWidth="373" frameHeight="482"/>
+	<SubTexture name="wadd_faces4new0006" x="1322" y="2" width="326" height="329" frameX="-47" frameY="-130" frameWidth="373" frameHeight="482"/>
+	<SubTexture name="wadd_faces4new0007" x="647" y="1253" width="313" height="307" frameX="-37" frameY="-155" frameWidth="373" frameHeight="482"/>
+	<SubTexture name="wadd_faces4new0008" x="578" y="367" width="313" height="361" frameX="-36" frameY="-98" frameWidth="373" frameHeight="482"/>
+	<SubTexture name="wadd_faces4new0009" x="2" y="1589" width="306" height="346" frameX="-38" frameY="-114" frameWidth="373" frameHeight="482"/>
+	<SubTexture name="wadd_faces4new0010" x="953" y="2" width="367" height="336" frameX="0" frameY="-125" frameWidth="373" frameHeight="482"/>
+	<SubTexture name="wadd_faces4new0011" x="893" y="367" width="282" height="332" frameX="-52" frameY="-127" frameWidth="373" frameHeight="482"/>
+	<SubTexture name="wadd_faces4new0012" x="2" y="759" width="356" height="460" frameX="-12" frameY="0" frameWidth="373" frameHeight="482"/>
+	<SubTexture name="wadd_faces4new0013" x="1650" y="296" width="319" height="296" frameX="-35" frameY="-186" frameWidth="373" frameHeight="482"/>
+	<SubTexture name="wadd_faces4new0014" x="1650" y="2" width="349" height="292" frameX="-17" frameY="-190" frameWidth="373" frameHeight="482"/>
+	<SubTexture name="wadd_faces4new0015" x="310" y="1845" width="169" height="142" frameX="-105" frameY="-230" frameWidth="373" frameHeight="482"/>
+	<SubTexture name="wadd_higlightFrame4new0000" x="1164" y="1529" width="103" height="103" pivotX="51.5" pivotY="101.5"/>
+	<SubTexture name="wadd_ideaBulb4new0000" x="310" y="1552" width="227" height="291" pivotX="113.95" pivotY="154.8"/>
+	<SubTexture name="wadd_shadowSquareButton4new0000" x="1879" y="1720" width="100" height="100" pivotX="50" pivotY="100"/>
+	<SubTexture name="wadd_smaillInvIcon4new0000" x="2" y="1937" width="102" height="102" pivotX="51" pivotY="51"/>
+	<SubTexture name="wadd_smaillInvIcon4new0001" x="1487" y="515" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0002" x="106" y="1937" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0003" x="1269" y="1529" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0004" x="1883" y="594" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0005" x="1883" y="698" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0006" x="1883" y="802" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0007" x="1883" y="906" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0008" x="1883" y="1010" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0009" x="1883" y="1114" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0010" x="1391" y="1245" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0011" x="1495" y="1245" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0012" x="1366" y="1349" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0013" x="1470" y="1349" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0014" x="943" y="1859" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0015" x="1047" y="1859" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0016" x="1151" y="1859" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0017" x="1255" y="1859" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0018" x="987" y="903" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0019" x="1373" y="1453" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0020" x="1477" y="1453" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0021" x="1373" y="1557" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0022" x="1477" y="1557" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0023" x="1347" y="1661" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0024" x="1451" y="1661" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0025" x="1574" y="1349" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0026" x="1581" y="1453" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0027" x="1581" y="1557" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0028" x="1555" y="1661" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0029" x="1659" y="1661" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0030" x="1359" y="1765" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0031" x="1463" y="1765" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0032" x="1567" y="1765" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0033" x="1359" y="1869" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0034" x="1463" y="1869" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0035" x="1567" y="1869" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0036" x="1671" y="1765" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0037" x="1671" y="1869" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0038" x="481" y="1928" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0039" x="585" y="1928" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0040" x="689" y="1928" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0041" x="793" y="1928" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0042" x="1685" y="1200" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0043" x="1678" y="1304" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0044" x="1685" y="1408" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0045" x="1685" y="1512" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0046" x="1782" y="1304" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0047" x="1789" y="1408" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0048" x="1789" y="1512" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0049" x="1763" y="1616" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0050" x="1775" y="1720" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0051" x="1775" y="1824" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0052" x="1775" y="1928" width="102" height="102"/>
+	<SubTexture name="wadd_smaillInvIcon4new0053" x="1867" y="1616" width="102" height="102"/>
+	<SubTexture name="wadd_speechBubble4new0000" x="360" y="759" width="476" height="205" pivotX="474.65" pivotY="204.15"/>
+	<SubTexture name="wadd_wideInvIcon4new0000" x="539" y="1562" width="402" height="162" pivotX="201" pivotY="81"/>
+</TextureAtlas>
